@@ -46,9 +46,3 @@
 <img align="left" height="150" src="https://i.pinimg.com/originals/02/aa/76/02aa769364e4f92ac271f76a964f186f.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/origami582/origami582/output/snake.svg" alt="Snake animation" />
-
-###
